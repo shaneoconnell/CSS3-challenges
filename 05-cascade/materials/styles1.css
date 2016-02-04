@@ -66,13 +66,23 @@ h2 {
 }
 
 .main h2{
+	color:;
+	border-bottom: 3px white solid;
+	background: url(images/bullet_flower.png) no-repeat;
+	padding: 0 0 2px 50px;
 
 
 } 
 
 .main p {
-
+	color: #616161;
+  	font-family: "Arial";
+	font-size: 1em;
+	line-height: 200%;
+	margin-bottom: 50px;
+	margin-left: 100px;
 }
+
 p.intro{
 
 }
