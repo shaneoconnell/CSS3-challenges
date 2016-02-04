@@ -43,7 +43,7 @@ table {
 
 body{
 	color: #B1967C;
-  	font-family: "Palatino Linotype", Baskerville, serif;
+  	font-family: Arial;
   	padding-top: 115px;
   	background: #CDE6FF url(images/bg_body.png) repeat-x;
   	width: 800px;
@@ -75,8 +75,8 @@ h2 {
 } 
 
 .main p {
-	color: #616161;
-  	font-family: "Arial";
+	color: #636669;
+  	font-family: Arial;
 	font-size: 1em;
 	line-height: 200%;
 	margin-bottom: 50px;
@@ -84,6 +84,10 @@ h2 {
 }
 
 p.intro{
-
+	color: #6a97cf;
+	font-family: Arial;
+	font-size: 1em;
+	margin-left: 0;
+	margin-bottom: 25px;
 }
 
