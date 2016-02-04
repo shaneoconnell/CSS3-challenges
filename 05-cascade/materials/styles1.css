@@ -52,10 +52,18 @@ body{
 } 
 
 h1{
+	font-size: 3em;
+	font-family: "Arial";
+	margin-bottom: 20px; 
+
 
 } 
 
-h2 {}
+h2 {
+	font-size: 2em;
+	font-color:#e7a063;
+	margin-bottom: 20px;
+}
 
 .main h2{
 
